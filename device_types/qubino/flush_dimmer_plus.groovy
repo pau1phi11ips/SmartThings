@@ -11,7 +11,7 @@
  *
  */
 metadata {
-    definition(name: "Qubino Dimmer Plus", namespace: "smartthings", author: "Zeeflyboy") {
+    definition(name: "Qubino Flush Dimmer Plus", namespace: "pau1phi11ips", author: "Paul Phillips") {
         capability "Energy Meter"
         capability "Actuator"
         capability "Switch"
